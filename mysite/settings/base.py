@@ -120,7 +120,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 # >>> DEBUG
 print(f'STATIC_URL       = {STATIC_URL}')
-print(f'STATIC_ROOT      = {STATIC_ROOT}')
+print(f'STATIC_ROOT      =   {STATIC_ROOT}')
 print(f'STATICFILES_DIRS = {STATICFILES_DIRS}\n')
 # <<<
 
